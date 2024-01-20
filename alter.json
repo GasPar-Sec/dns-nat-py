@@ -1,0 +1,15 @@
+{
+    "alter": [
+      {
+        "id": "b464d044-3956-424a-8586-c550a514b673",
+        "type": "subnet",
+        "action": [
+          {
+            "action_type": "replace",
+            "from": "x.x.x.",
+            "by": "y.y.y."
+          }
+        ]
+      }
+    ]
+  }
